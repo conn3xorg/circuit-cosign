@@ -111,7 +111,7 @@ Before the circuit runs, the `conn3x_host` data source reads each host's archite
 
 ## Requirements
 
-Requires Conn3x v0.7.0 or later. Hosts need to reach GitHub for the release.
+Requires Conn3x v0.7.1 or later. Hosts need to reach GitHub for the release.
 
 ## Tested on
 
